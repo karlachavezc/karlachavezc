@@ -1,4 +1,14 @@
-HOLA A TODOS ! 👋🌱😄
+HOLA A TODOS ! 👋🌱😄 AL PERFIL DE KARLA HERENDIRA CHAVEZ ✨✨✨
+
+SOY ESTUDAINTE DEL TECNOLOGICO DE TIJUANA⚡ 
+
+INGENIERIA EN SISTEMAS COMPUTACIONALES✨ 
+
+EX ALUMNA DEL CBTIS 116 CON LA ESPECIALIDAD DE MANTENIMIENTO INSDUSTRIAL✨
+
+
+BIENVENIDOS 💬💬💬
+
 
 <!--
 **karlachavezc/karlachavezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
