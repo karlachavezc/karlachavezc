@@ -10,6 +10,14 @@ EX ALUMNA DE LA PREPARATORIA CBTIS 116 CON LA ESPECIALIDAD DE MANTENIMIENTO INSD
 BIENVENIDOS 💬💬💬
 
 
+
+| Sensores 	|  X 	|  Y  	|
+|----------	|:--:	|:---:	|
+| Co2      	| 20 	|  30 	|
+| temp     	| 11 	|  27 	|
+| O2       	| 22 	| 333 	|
+
+
 <!--
 **karlachavezc/karlachavezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
