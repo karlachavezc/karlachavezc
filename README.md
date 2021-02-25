@@ -1,7 +1,7 @@
 ![](https://images.cooltext.com/5508848.png)
 
 
-HOLA A TODOS ! 👋🌱😄 AL PERFIL DE KARLA HERENDIRA CHAVEZ ✨✨✨
+HOLA A TODOS ! 👋🌱😄 AL PERFIL DE LA ESTUDIANTE  KARLA HERENDIRA CHAVEZ ✨✨✨
 
 SOY ESTUDAINTE DEL TECNOLOGICO DE TIJUANA⚡ 
 
