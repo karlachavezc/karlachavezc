@@ -14,7 +14,7 @@ BIENVENIDOS 💬💬💬
 
 
 
-✨HORARIO✨
+✨HORARIO DE CLASES✨
 
 | materia                           | lunes  | martes  | miercoles  | jueves  | viernes  |
 |-----------------------------------|--------|---------|------------|---------|----------|
