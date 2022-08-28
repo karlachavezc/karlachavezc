@@ -16,14 +16,10 @@ BIENVENIDOS 💬💬💬
 
 ✨HORARIO DE CLASES✨
 
-| materia                           | lunes  | martes  | miercoles  | jueves  | viernes  |
+|                                | lunes  | martes  | miercoles  | jueves  | viernes  |
 |-----------------------------------|--------|---------|------------|---------|----------|
-| Lenguajes de interfaz             | 2pm    | 2pm     | 2pm        | 2pm     |          |
-| Gestion de proyectos de software  | 3pm    | 3pm     | 3pm        | 3pm     | 2-4 pm   |
-| Conmutacion y enrutamiento de red | 4pm    | 4pm     | 4pm        | 4pm     | 4pm      |
-| Diseno de interfaz de usuario     | 5pm    | 5pm     | 5pm        | 5pm     | 5pm      |
-| libre                             |        |         |            |         |          |
-| patrones de diseno                | 7pm    | 7pm     | 7pm        | 7pm     | 7pm      |
+| Sistemas Programables          | 2pm    | 2pm     | 2pm        | 2pm     |          |
+    
 
 <!--
 **karlachavezc/karlachavezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
