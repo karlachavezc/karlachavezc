@@ -18,7 +18,7 @@ BIENVENIDOS 💬💬💬
 
 |                                | lunes  | martes  | miercoles  | jueves  | viernes  |
 |-----------------------------------|--------|---------|------------|---------|----------|
-| Sistemas Programables          | 2pm    | 2pm     | 2pm        | 2pm     |          |
+| Sistemas Programables          | 2-3pm  | 2-3pm   | 2-3pm      | 2-3pm   |          |
     
 
 <!--
