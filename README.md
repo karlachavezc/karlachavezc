@@ -16,7 +16,7 @@ BIENVENIDOS 💬💬💬
 
 ✨HORARIO DE CLASES✨
 
-|                                | lunes  | martes  | miercoles  | jueves  | viernes  |
+|          MATERIA               | lunes  | martes  | miercoles  | jueves  | viernes  |
 |-----------------------------------|--------|---------|------------|---------|----------|
 | Sistemas Programables          | 2-3pm  | 2-3pm   | 2-3pm      | 2-3pm   |          |
     
